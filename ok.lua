@@ -1,4 +1,4 @@
-local Targets = {"YTBEnGameTv"} 
+local Targets = {"name here"} 
 
 local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
